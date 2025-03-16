@@ -82,3 +82,7 @@ cmake-build-debug
 xcode/*
 .vscode
 .build
+
+# Zig build files
+zig-out/
+.zig-cache/
