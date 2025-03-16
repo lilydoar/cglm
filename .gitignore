@@ -83,3 +83,5 @@ xcode/*
 .vscode
 .build
 *.swp
+zig-out/
+.zig-cache/
