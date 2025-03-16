@@ -1,4 +1,4 @@
-# 🎥 OpenGL Mathematics (glm) for `C`
+# 🎥 OpenGL Mathematics (glm) for `C` ported to the Zig build system
 
 <p align="center">
    <img alt="" src="cglm.png" width="550" />
@@ -57,7 +57,7 @@ Alternatively, you can read the complete documentation [here](http://cglm.readth
 
 ### 🔨 Building
 
-cglm can be used in it's entirety as a header-only library simply by including `cglm/cglm.h`. If you wish to link against it instead, it can be built using one of the supported build systems. Detailed information about building on individual platforms and build systems along with the instructions for building the documentation can be found in [BUILDING.md](./BUILDING.md).
+cglm can be used in it's entirety as a header-only library simply by including `cglm/cglm.h`. If you wish to link against it instead, it can be built using the Zig build system. Detailed information about building on individual platforms along with the instructions for building the documentation can be found in [BUILDING.md](./BUILDING.md).
 
 ### ✅ Usage
 
