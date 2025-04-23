@@ -2,7 +2,7 @@
     .name = .cglm,
     .version = "0.9.6",
 
-    .fingerprint = 0x2cef7d48ec6756d1, // Changing this has security and trust implications.
+    .fingerprint = 0xbf04631a9aab947e, // Changing this has security and trust implications.
     .minimum_zig_version = "0.14.0",
 
     .paths = .{
